@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on it department
 - 📫 How to reach me mail me
 - 😄 Pronouns: PRAKASH
-- ⚡ Fun fact: 
+- ⚡ Fun fact: “I once spent more time debugging a typo than writing the actual code… and lived to tell the tale!” 🐛💻
 
 <!---
 CHANDRAPRAKASH237/CHANDRAPRAKASH237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
